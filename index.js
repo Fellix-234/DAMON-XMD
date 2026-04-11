@@ -86,7 +86,7 @@ function runBot() {
 }
 
 (async () => {
-    console.log('KLAUS MD starting...');
+    console.log('Damon-XMD starting...');
     await prepareBot();
     installDependencies();
     copyLocalConfig();
