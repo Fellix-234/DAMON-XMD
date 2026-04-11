@@ -23,15 +23,15 @@ function parseBool(value, fallback) {
 const settings = {
   SESSION: fromEnv('SESSION', ''),
   PREFIX: fromEnv('PREFIX', '.'),
-  OWNER_NUMBER: cleanNumber(fromEnv('OWNER_NUMBER', '2340000000000')),
-  OWNER_NAME: fromEnv('OWNER_NAME', 'Klaus Owner'),
+  OWNER_NUMBER: cleanNumber(fromEnv('OWNER_NUMBER', '254725391914')),
+  OWNER_NAME: fromEnv('OWNER_NAME', 'Warrior Felix'),
   DEVELOPER_NUMBER: cleanNumber(fromEnv('DEVELOPER_NUMBER', '254725391914')),
   DEVELOPER_NAME: fromEnv('DEVELOPER_NAME', 'Warrior Felix'),
   MODE: fromEnv('MODE', 'public'),
   PORT: parsePort(fromEnv('PORT', '3000'), 3000),
   SESSION_SERVER_PORT: parsePort(fromEnv('SESSION_SERVER_PORT', '3001'), 3001),
   KEEP_ALIVE_URL: fromEnv('KEEP_ALIVE_URL', ''),
-  BOT_NAME: fromEnv('BOT_NAME', 'KLAUS MD'),
+  BOT_NAME: fromEnv('BOT_NAME', 'DAMON-XMD'),
   APP_MODE: fromEnv('APP_MODE', 'bot'),
   AI: {
     OPENAI_API_KEY: fromEnv('OPENAI_API_KEY', ''),
