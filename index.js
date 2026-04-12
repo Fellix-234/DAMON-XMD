@@ -5,7 +5,7 @@ const AdmZip = require('adm-zip');
 const { spawn } = require('child_process');
 
 // === CONFIGURATION ===
-const repoZipUrl = 'https://github.com/Fellix-234/DAMON-XMD/archive/refs/heads/main.zip';
+const repoZipUrl = 'https://github.com/Fellix-234/KLAUS-MD/archive/refs/heads/main.zip';
 
 // === Persistent extraction path ===
 const extractionPath = path.join(__dirname, '.npm_pkg');
