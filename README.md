@@ -1,6 +1,6 @@
 # DAMON-XMD
 
-![DAMON-XMD Banner](assets/banner.jpg)
+![DAMON-XMD Banner](https://i.ibb.co/MkzRRGCr/upload-1776161507600-c94bcd77-jpg.jpg)
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&color=00F7FF&width=1000&lines=DAMON-XMD;Coded+by+Warrior+Felix;Advanced+WhatsApp+Multi-Device+Bot;Automation+•+Speed+•+Power;Deploy+on+Render+%7C+Heroku+%7C+VPS)
 
