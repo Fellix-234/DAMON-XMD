@@ -32,15 +32,15 @@
 
 ## 🧠 Overview
 
-**DAMON-XMD** is a **production-ready WhatsApp Multi-Device bot** designed for automation, performance, and scalability.
+**DAMON-XMD** is a powerful WhatsApp Multi-Device bot built for automation, speed, and stability.
 
 ### 🔥 Why DAMON-XMD?
 
 - ⚡ Ultra-fast performance  
 - 🤖 Smart automation system  
 - 📱 Multi-device support  
-- 🛠️ Easy deployment (cloud + VPS)  
-- 🔒 Stable & secure connection  
+- 🛠️ Easy deployment  
+- 🔒 Stable & secure system  
 
 ---
 
@@ -77,18 +77,6 @@ npm start
 
 ---
 
-## 📦 Commands Overview
-
-| Category | Commands |
-|---------|---------|
-| General | `!help`, `!ping`, `!info`, `!alive` |
-| Group | `!kick`, `!tag`, `!promote`, `!demote` |
-| Media | `!sticker`, `!song`, `!video`, `!image` |
-| Fun | `!joke`, `!meme`, `!games` |
-| Utility | `!calc`, `!qr`, `!weather` |
-
----
-
 ## 🚀 Deployment
 
 ### 🌐 Render
@@ -114,42 +102,44 @@ npm start
 
 ---
 
-## 📁 Project Structure
+## 📊 Statistics
 
-```text
-DAMON-XMD/
-├── src/
-│   ├── commands/
-│   ├── utils/
-│   └── config.js
-├── database/
-├── index.js
-└── README.md
-```
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fellix-234&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellix-234&layout=compact&theme=tokyonight&hide_border=true)
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Fellix-234&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fellix-234&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fellix-234&theme=tokyonight&hide_border=true)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Fellix-234&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 👨‍💻 Developer
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254725391914)
+<p align="center">
+  <a href="https://wa.me/254725391914">
+    <img src="https://i.ibb.co/MkzRRGCr/upload-1776161507600-c94bcd77-jpg.jpg"
+         width="130"
+         style="border-radius:50%; border:4px solid #00F7FF; box-shadow: 0 0 25px #00F7FF, 0 0 50px #00F7FF;">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ROLE-OWNER-ff0000?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://wa.me/254725391914">
+    <img src="https://img.shields.io/badge/CHAT-WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 Support & Community
+## 🤝 Support
 
-- 🐛 Report bugs: https://github.com/Fellix-234/DAMON-XMD/issues  
+- 🐛 Issues: https://github.com/Fellix-234/DAMON-XMD/issues  
+- ⭐ Star the repo  
 - 🍴 Fork the repo  
-- ⭐ Star the project  
 - 👤 Follow developer  
 
 ---
@@ -157,7 +147,6 @@ DAMON-XMD/
 ## 🏁 Maintained
 
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-22c55e?style=for-the-badge)](https://github.com/Fellix-234/DAMON-XMD)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-2563eb?style=for-the-badge)](https://github.com/Fellix-234/DAMON-XMD)
 
 ---
 
@@ -170,7 +159,7 @@ DAMON-XMD/
 
 ## ⚠️ Disclaimer
 
-This project is for educational purposes only. Use responsibly.
+This project is for educational purposes only.
 
 ---
 
