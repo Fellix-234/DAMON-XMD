@@ -1,8 +1,8 @@
 
 <div align="center">
 
-# Damon-XMD
-
+#😈😈 Damon-XMD😈😈
+😈😈Whatsapp bot made by Wonderiing Jew😈😈 
 ![Damon-XMD Banner](https://i.ibb.co/7dQWPvXW/c88af51ce9c3.jpg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&width=600&lines=Damon-XMD+coded+by+Wondering+Jew;Fast+and+Powerful+WhatsApp+Bot;Made+with+love+in+Kenya)](https://github.com/Fellix-234)
@@ -26,8 +26,8 @@
 </div>
 
 ---
-
-
+## DEPLOYMENT
+-------------
 
 ### Heroku deploy button
 
