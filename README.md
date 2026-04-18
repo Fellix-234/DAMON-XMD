@@ -5,27 +5,63 @@
 
 ![Damon-XMD Banner](https://i.ibb.co/7dQWPvXW/c88af51ce9c3.jpg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&width=600&lines=Damon-XMD+coded+by+Wondering+Jew;Fast+and+Powerful+WhatsApp+Bot;Made+with+love+in+Kenya)](https://github.com/Felix-234)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&width=600&lines=Damon-XMD+coded+by+Wondering+Jew;Fast+and+Powerful+WhatsApp+Bot;Made+with+love+in+Kenya)](https://github.com/Fellix-234)
 
 ---
 
 ### 🔥 Animated Status & Repo Badges
 
-![Stars](https://img.shields.io/github/stars/Felix-234/DAMON-XMD?style=for-the-badge&color=ffcc00)
-![Forks](https://img.shields.io/github/forks/Felix-234/DAMON-XMD?style=for-the-badge&color=00ccff)
-![Size](https://img.shields.io/github/repo-size/Felix-234/DAMON-XMD?style=for-the-badge&color=ff66cc)
-![License](https://img.shields.io/github/license/Felix-234/DAMON-XMD?style=for-the-badge&color=00ff99)
+![Stars](https://img.shields.io/github/stars/Fellix-234/DAMON-XMD?style=for-the-badge&color=ffcc00)
+![Forks](https://img.shields.io/github/forks/Fellix-234/DAMON-XMD?style=for-the-badge&color=00ccff)
+![Size](https://img.shields.io/github/repo-size/Fellix-234/DAMON-XMD?style=for-the-badge&color=ff66cc)
+![License](https://img.shields.io/github/license/Fellix-234/DAMON-XMD?style=for-the-badge&color=00ff99)
 
 ---
 
 ### 💬 Contact & Support
 
 [![WhatsApp](https://img.shields.io/badge/Chat_on_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254725391914)
-[![Support](https://img.shields.io/badge/Support_Damon--XMD-FF0000?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/Felix-234)
+[![Support](https://img.shields.io/badge/Support_Damon--XMD-FF0000?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/Fellix-234)
 
 </div>
 
 ---
+
+
+
+### Heroku deploy button
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Fellix-234/DAMON-XMD)
+
+### Railway deploy button
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Fellix-234/DAMON-XMD)
+
+
+### Render deploy button
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Fellix-234/DAMON-XMD)
+
+
+### Replit deploy button
+
+[![Run on Replit](https://replit.com/badge/github/USERNAME/REPO)](https://replit.com/new/github/Fellix-234/DAMON-XMD)
+
+### VPS deploy (generic button linking to docs)
+
+[![Deploy on VPS](https://img.shields.io/badge/Deploy%20on-VPS-blue?style=for-the-badge)](https://your-domain.com/docs/vps-deploy)
+
+
+### Get session button
+[![Get Session ID](https://img.shields.io/badge/Get-Session_ID-green?style=for-the-badge)](https://your-session-generator-link.com)
+
+
+### Download ZIP button
+
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-orange?style=for-the-badge)](https://github.com/Fellix-234/DAMON-XMD/archive/refs/heads/main.zip)
+
+-------------
+
 
 ## 🚀 Damon-XMD Overview
 
