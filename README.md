@@ -11,10 +11,10 @@
 
 ### 🔥 Animated Status & Repo Badges
 
-![Stars](https://img.shields.io/github/stars/Felix-234/Damon-XMD?style=for-the-badge&color=ffcc00)
-![Forks](https://img.shields.io/github/forks/Felix-234/Damon-XMD?style=for-the-badge&color=00ccff)
-![Size](https://img.shields.io/github/repo-size/Felix-234/Damon-XMD?style=for-the-badge&color=ff66cc)
-![License](https://img.shields.io/github/license/Felix-234/Damon-XMD?style=for-the-badge&color=00ff99)
+![Stars](https://img.shields.io/github/stars/Felix-234/DAMON-XMD?style=for-the-badge&color=ffcc00)
+![Forks](https://img.shields.io/github/forks/Felix-234/DAMON-XMD?style=for-the-badge&color=00ccff)
+![Size](https://img.shields.io/github/repo-size/Felix-234/DAMON-XMD?style=for-the-badge&color=ff66cc)
+![License](https://img.shields.io/github/license/Felix-234/DAMON-XMD?style=for-the-badge&color=00ff99)
 
 ---
 
